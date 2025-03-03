@@ -1,5 +1,6 @@
 # BE-Challenge-Microservices
-Challenge Chapter 7
+
+## Challenge Chapter 7
 
 This chapter focuses on transitioning the application into a microservices architecture by implementing Spring Kafka and Spring Gateway to enhance scalability, modularity, and communication between services.
 
