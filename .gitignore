@@ -1,6 +1,9 @@
 HELP.md
 target/
-!user/.mvn/wrapper/maven-wrapper.jar
+!../user/.mvn/wrapper/maven-wrapper.jar
+!../merchant/.mvn/wrapper/maven-wrapper.jar
+!../order/.mvn/wrapper/maven-wrapper.jar
+!../gateaway/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -32,4 +35,4 @@ build/
 ### VS Code ###
 .vscode/
 
-./user/src/main/resources/client_secret.json
+user/src/main/resources/client_secret.json
