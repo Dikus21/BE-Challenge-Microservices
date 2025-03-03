@@ -1,8 +1,8 @@
 # BE-Challenge-Microservices
 
-## Challenge Chapter 7
-
 This chapter focuses on transitioning the application into a microservices architecture by implementing Spring Kafka and Spring Gateway to enhance scalability, modularity, and communication between services.
+
+## Challenge Chapter 7
 
 The application was divided into three microservices: Order Service, Product Service, and User Service. Each microservice is responsible for handling specific functionalities, such as order management, order management, and user management, respectively. Spring Kafka was integrated to facilitate asynchronous communication between microservices, enabling real-time data processing and event-driven architecture. This implementation enhances system performance, scalability, and fault tolerance by decoupling services and ensuring reliable message delivery.
 
